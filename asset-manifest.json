@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asap-snack-bar/static/css/main.5750db20.css",
+    "main.js": "/asap-snack-bar/static/js/main.4c7c106b.js",
+    "static/js/453.e6d34cde.chunk.js": "/asap-snack-bar/static/js/453.e6d34cde.chunk.js",
+    "static/media/hero.png": "/asap-snack-bar/static/media/hero.e06f01962e7ed4fadcc6.png",
+    "index.html": "/asap-snack-bar/index.html",
+    "main.5750db20.css.map": "/asap-snack-bar/static/css/main.5750db20.css.map",
+    "main.4c7c106b.js.map": "/asap-snack-bar/static/js/main.4c7c106b.js.map",
+    "453.e6d34cde.chunk.js.map": "/asap-snack-bar/static/js/453.e6d34cde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5750db20.css",
+    "static/js/main.4c7c106b.js"
+  ]
+}
