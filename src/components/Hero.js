@@ -17,7 +17,7 @@ function Hero() {
               {/* a quick description that gets people excited about our food */}
               <p>Get ready for a taste of Dominican flavor that's rápido y delicioso! Experience the best authentic food in the Bronx.</p>
               {/* the big button that gets people to start ordering */}
-              <a href="#" className="hero-btn">ORDER NOW</a>
+              <button className="hero-btn">ORDER NOW</button>
             </div>
           </Col>
         </Row>
