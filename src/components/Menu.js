@@ -14,42 +14,42 @@ function Menu({ addToCart }) {
       name: "Chimmi Sandwhich",
       description: "Our signature burger with special sauce",
       price: 10.99,
-      image: "/images/burger.jpeg"
+      image: "images/burger.jpeg"
     },
     {
       id: "2",
       name: "Protein Bowl",
       description: "Grilled chicken, avocado, vegetables",
       price: 12.99,
-      image: "/images/protien.jpeg"
+      image: "images/protien.jpeg"
     },
     {
       id: "3",
       name: "Combo Platter",
       description: "Mixed proteins with fries and plantains",
       price: 15.99,
-      image: "/images/plantains.jpeg"
+      image: "images/plantains.jpeg"
     },
     {
       id: "4",
       name: "Mangu con Los Tres Golpes",
       description: "Mashed plantains with eggs, cheese, and salami",
       price: 12.99,
-      image: "/images/mangu.jpeg"
+      image: "images/mangu.jpeg"
     },
     {
       id: "5",
       name: "Empanadas",
       description: "Choice of beef, chicken, or cheese",
       price: 3.99,
-      image: "/images/empandas.jpeg"
+      image: "images/empandas.jpeg"
     },
     {
       id: "6",
       name: "Morir Soñando",
       description: "Orange juice and milk drink",
       price: 4.99,
-      image: "/images/morirsonando.jpeg"
+      image: "images/morirsonando.jpeg"
     }
   ];
 

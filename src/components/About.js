@@ -18,7 +18,7 @@ function About() {
         <Row className="mb-5">
           {/* a nice picture of our restaurant on the left */}
           <Col md={6} className="about-image">
-            <img src="/images/ASAPSnackBAr.png" alt="Restaurant Interior" />
+            <img src="images/ASAPSnackBAr.png" alt="Restaurant Interior" />
           </Col>
           {/* our story text on the right */}
           <Col md={6} className="about-text">

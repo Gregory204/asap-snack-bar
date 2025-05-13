@@ -8,12 +8,12 @@ function Gallery() {
   // here's all our gallery images with their alt text
   // we keep them in an array so we can easily map through them
   const galleryImages = [
-    { src: "/images/ASAP1.png", alt: "ASAP Snack Bar 1" },
-    { src: "/images/ASAP2.png", alt: "ASAP Snack Bar 2" },
-    { src: "/images/ASAP3.png", alt: "ASAP Snack Bar 3" },
-    { src: "/images/ASAP3.png", alt: "ASAP Snack Bar 4" },
-    { src: "/images/ASAP4.png", alt: "ASAP Snack Bar 5" },
-    { src: "/images/ASAP5.png", alt: "ASAP Snack Bar 6" }
+    { src: "images/ASAP1.png", alt: "ASAP Snack Bar 1" },
+    { src: "images/ASAP2.png", alt: "ASAP Snack Bar 2" },
+    { src: "images/ASAP3.png", alt: "ASAP Snack Bar 3" },
+    { src: "images/ASAP3.png", alt: "ASAP Snack Bar 4" },
+    { src: "images/ASAP4.png", alt: "ASAP Snack Bar 5" },
+    { src: "images/ASAP5.png", alt: "ASAP Snack Bar 6" }
   ];
 
   return (
