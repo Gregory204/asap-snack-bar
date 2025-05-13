@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
+// Import our components
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Menu from './components/Menu';
