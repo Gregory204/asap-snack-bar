@@ -78,6 +78,7 @@ function Menu({ addToCart }) {
                   {/* when you click this button, it adds the item to your cart
                       and shows a quick "Added!" message before going back to normal */}
                   <button 
+                    type="button"
                     className="add-to-cart" 
                     onClick={() => {
                       addToCart(item);
